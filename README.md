@@ -6,7 +6,7 @@
 ### Requerimientos:
 
 - mysql: usaremos este SGBD, por lo que hay que tenerlo instalado y con el servidor arrancado.
-- mysql workbench: comprobaremos las consultas con este software de gestion de base de datos también podremos crear el uml.
+- mysql workbench: comprobaremos las consultas con este software de gestion de base de datos también podremos crear el ERD.
 
 ### Distribución de los archivos:
 
@@ -28,7 +28,7 @@ src/
 
 ```schema``` aquí esta el esquema y los valores <br>
 
-```_uml``` una representación en uml de los correspondientes esquemas<br>
+```ERD``` una representación en uml de los correspondientes esquemas<br>
 
 ## Base de datos: Tienda
 <img height="420px" src="https://github.com/paula-uxengineer/mysql-queries/blob/main/src/store/store_uml.png">
